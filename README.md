@@ -11,7 +11,7 @@ Create a new project folder and add an HTML file (index.html), a CSS file (style
  (script.js):[script js](https://github.com/AshrithChandan/Calculator-using-HTML-CSS-and-JavaScript/blob/main/script.js)
 # 2 Testing:
 Open index.html in your web browser and test your simple calculator.
-#DEMO
+# DEMO
 ![image](https://github.com/AshrithChandan/Calculator-using-HTML-CSS-and-JavaScript/assets/96688712/0167bc94-fcf7-42e1-9787-07931b93bc44)
 
 
